@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.719" height="33" viewBox="0 0 16.719 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5a89ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="facebook_blue" data-name="facebook blue" class="cls-1" d="M658.208,238.25h6.5v6.6h-6.5V259h-6.5V244.854h-3.717v-6.6h4.645v-2.565c0-2.434.754-5.5,2.249-7.177a7.212,7.212,0,0,1,5.577-2.519h4.255v5.659h-4.766a1.751,1.751,0,0,0-1.738,1.764v4.838Z" transform="translate(-648 -226)"/>
+</svg>
